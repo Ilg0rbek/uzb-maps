@@ -1,9 +1,7 @@
 import styled from 'styled-components';
-
 export const Map = styled.div`
 margin: 1rem auto;
 width: 500px;
-
 svg {
   stroke: #fff;
   path {
